@@ -32,12 +32,13 @@ public class DemoOptionals {
 
     static Optional<List<String>> getOptionalNames(){
         List<String> nameList = new LinkedList<>();
-        //optencion de nombres
+        //obtencion de nombres
         return Optional.of(nameList);
     }
 
+    //se le dice a optional q se desconoce si el dato es null o no
     static Optional<String> optionalValuablePlayer(){
-        //se le dice a optional q se desconoce si el dato es null o no
+        //buscar en base de datos el valor
         //return Optional.ofNullable();
         try{
             return  Optional.of("valor default");

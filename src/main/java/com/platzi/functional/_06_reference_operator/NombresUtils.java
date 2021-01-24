@@ -8,7 +8,7 @@ import java.util.function.Consumer;
 public class NombresUtils {
 
     public static void main(String[] args) {
-        List<String> profesores = getList("44gatos","dinosaurios", "carne");
+        List<String> profesores = getList("44gatos","dinosaurios", "perro");
 
         Consumer<String> printer = text -> System.out.println(text);
         profesores.forEach(printer);

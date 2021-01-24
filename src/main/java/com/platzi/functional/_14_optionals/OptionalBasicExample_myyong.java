@@ -25,8 +25,8 @@ public class OptionalBasicExample_myyong {
 
         Optional<Optional<String>> nonEmptyOptionalGender = Optional.of(Optional.of("male"));
         System.out.println("Optional value :: "+ nonEmptyOptionalGender);
-        System.out.println("Optional.map :: "+ nonEmptyOptionalGender.map(gender -> gender.map(String::toUpperCase)));
-        System.out.println("Optional.flatmap :: "+ nonEmptyOptionalGender.flatMap(gender -> gender.map(String::toUpperCase)));
+       // System.out.println("Optional.map :: "+ nonEmptyOptionalGender.map(gender -> gender.map(String::toUpperCase)));
+       // System.out.println("Optional.flatmap :: "+ nonEmptyOptionalGender.flatMap(gender -> gender.map(String::toUpperCase)));
 
     }
 }
