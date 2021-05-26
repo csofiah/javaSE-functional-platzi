@@ -25,6 +25,8 @@ public class Syntax {
         //las funciones lamdas no trabajan con tipos de datos primitivos sino con objetos y clases
         //por eso se usa Integer en lugar de int
         usarBiFunction((Integer x, Integer y) -> x*y);
+
+
     }
     static void usarZero(ZeroArgumentos zeroArgumentos){
 

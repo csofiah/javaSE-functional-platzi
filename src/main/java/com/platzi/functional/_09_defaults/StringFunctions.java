@@ -18,6 +18,7 @@ public class StringFunctions {
     interface DoOperation{
         void take(String text);
 
+        //podria tener un metodo por defaul t q haga la conexion de la base datos
         default void execute(int x, String text){
             while(x --> 0){
                 take(text);

@@ -37,16 +37,15 @@ public class DemoOptionals {
     }
 
     //se le dice a optional q se desconoce si el dato es null o no
-    static Optional<String> optionalValuablePlayer(){
+    static Optional<String> optionalValuablePlayer() {
         //buscar en base de datos el valor
         //return Optional.ofNullable();
-        try{
-            return  Optional.of("valor default");
-        }catch(Exception e){
+        try {
+            return Optional.of("valor default");
+        } catch (Exception e) {
             e.printStackTrace();
         }
         //si no encuentra nada
         return Optional.empty();
     }
-
 }

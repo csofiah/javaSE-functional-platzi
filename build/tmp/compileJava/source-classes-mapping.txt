@@ -36,26 +36,24 @@ com/platzi/functional/_19_final_ops/FinalOperations.java
 com/platzi/functional/_04_functional/PracticeFunctional.java
  com.platzi.functional._04_functional.PracticeFunctional
  com.platzi.functional._04_functional.PracticeFunctional$1
+com/platzi/functional/_11_composition/Composition.java
+ com.platzi.functional._11_composition.Composition
 com/platzi/functional/_08_lambda/Syntax.java
  com.platzi.functional._08_lambda.Syntax
  com.platzi.functional._08_lambda.Syntax$OperarNada
  com.platzi.functional._08_lambda.Syntax$ZeroArgumentos
-com/platzi/functional/_09_defaults/StringFunctions.java
- com.platzi.functional._09_defaults.StringFunctions
- com.platzi.functional._09_defaults.StringFunctions$DoOperation
- com.platzi.functional._09_defaults.StringFunctions$StringOperation
 com/platzi/functional/_10_chaining/data/Phone.java
  com.platzi.functional._10_chaining.data.Phone
 com/platzi/functional/triFunction/TrinaryOperator.java
  com.platzi.functional.triFunction.TrinaryOperator
-com/platzi/functional/triFunction/TriFuncional.java
- com.platzi.functional.triFunction.TriFuncional
 com/platzi/functional/_14_optionals/OptionalBasicExample_myyong.java
  com.platzi.functional._14_optionals.OptionalBasicExample_myyong
-com/platzi/functional/_06_reference_operator/NombresUtils.java
- com.platzi.functional._06_reference_operator.NombresUtils
+com/platzi/functional/triFunction/TriFuncional.java
+ com.platzi.functional.triFunction.TriFuncional
 com/platzi/functional/_10_chaining/builder/BuilderNoChaining.java
  com.platzi.functional._10_chaining.builder.BuilderNoChaining
+com/platzi/functional/_06_reference_operator/NombresUtils.java
+ com.platzi.functional._06_reference_operator.NombresUtils
 com/platzi/functional/_03_immutable/mutable/MutablePerson.java
  com.platzi.functional._03_immutable.mutable.MutablePerson
 com/platzi/functional/_09_defaults/Defaults.java
@@ -68,14 +66,14 @@ com/platzi/functional/_15_streams_intro/StreamsAndIterables.java
  com.platzi.functional._15_streams_intro.StreamsAndIterables
 com/platzi/functional/_03_immutable/immutable/ImmutablePerson.java
  com.platzi.functional._03_immutable.immutable.ImmutablePerson
-com/platzi/functional/_04_functional/CLIArguments.java
- com.platzi.functional._04_functional.CLIArguments
 com/platzi/functional/_13_partial_application/Partial.java
  com.platzi.functional._13_partial_application.Partial
  com.platzi.functional._13_partial_application.Partial$DBConfiguration
  com.platzi.functional._13_partial_application.Partial$DataBaseConnection
  com.platzi.functional._13_partial_application.Partial$Query
  com.platzi.functional._13_partial_application.Partial$QueryResult
+com/platzi/functional/_04_functional/CLIArguments.java
+ com.platzi.functional._04_functional.CLIArguments
 com/platzi/functional/_17_operators_collectors/Operators.java
  com.platzi.functional._17_operators_collectors.Operators
 com/platzi/functional/_03_immutable/mutable/MutablePerson_3.java
@@ -85,16 +83,18 @@ com/platzi/functional/_16_listeners/StreamListeners.java
  com.platzi.functional._16_listeners.StreamListeners$NumericOperator
 com/platzi/functional/_02_sideeffects/SideEffects.java
  com.platzi.functional._02_sideeffects.SideEffects
+com/platzi/functional/_10_chaining/Compose.java
+ compose.Compose
 com/platzi/functional/_07_inference/Inference.java
  com.platzi.functional._07_inference.Inference
 com/platzi/functional/exercises/_11_Composition.java
  com.platzi.functional.exercises._11_Composition
-com/platzi/functional/_04_functional/_02_PredicatesDemos.java
- com.platzi.functional._04_functional._02_PredicatesDemos
-com/platzi/functional/_11_composition/Composition.java
- com.platzi.functional._11_composition.Composition
+com/platzi/functional/_15_streams_intro/DemoStreams.java
+ com.platzi.functional._15_streams_intro.DemoStreams
 com/platzi/functional/_18_intermediate_ops/IntermediateOperations.java
  com.platzi.functional._18_intermediate_ops.IntermediateOperations
+com/platzi/functional/_04_functional/_02_PredicatesDemos.java
+ com.platzi.functional._04_functional._02_PredicatesDemos
 com/platzi/functional/_04_functional/FuntionalMaths.java
  com.platzi.functional._04_functional.FuntionalMaths
  com.platzi.functional._04_functional.FuntionalMaths$1
@@ -122,9 +122,14 @@ com/platzi/functional/_03_immutable/mutable/MutablePerson_4.java
  com.platzi.functional._03_immutable.mutable.MutablePerson_4
 com/platzi/functional/_10_chaining/data/Address.java
  com.platzi.functional._10_chaining.data.Address
-com/platzi/functional/_14_optionals/DemoOptionals.java
- com.platzi.functional._14_optionals.DemoOptionals
+com/platzi/functional/_04_functional/PredicatePractice.java
+ com.platzi.functional._04_functional.PredicatePractice
+ com.platzi.functional._04_functional.PredicatePractice$Student
 com/platzi/functional/_07_inference/DemoInferencia.java
  com.platzi.functional._07_inference.DemoInferencia
-com/platzi/functional/_15_streams_intro/DemoStreams.java
- com.platzi.functional._15_streams_intro.DemoStreams
+com/platzi/functional/_14_optionals/DemoOptionals.java
+ com.platzi.functional._14_optionals.DemoOptionals
+com/platzi/functional/_09_defaults/StringFunctions.java
+ com.platzi.functional._09_defaults.StringFunctions
+ com.platzi.functional._09_defaults.StringFunctions$DoOperation
+ com.platzi.functional._09_defaults.StringFunctions$StringOperation
