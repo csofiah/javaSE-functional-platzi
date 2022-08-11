@@ -37,8 +37,8 @@ cursos/arquitecturajava/lambdas/Main2.java
 com/platzi/functional/_14_optionals/Optionals.java
  com.platzi.functional._14_optionals.Optionals
  com.platzi.functional._14_optionals.Optionals$DatoNecesarioException
-com/platzi/functional/_15_streams_intro/Person.java
- com.platzi.functional._15_streams_intro.Person
+com/platzi/functional/_19_final_ops/FinalOperations.java
+ com.platzi.functional._19_final_ops.FinalOperations
 com/platzi/functional/_04_functional/PracticeFunctional.java
  com.platzi.functional._04_functional.PracticeFunctional
  com.platzi.functional._04_functional.PracticeFunctional$1
@@ -177,9 +177,17 @@ com/platzi/functional/_15_streams_intro/DemoStreams.java
  com.platzi.functional._15_streams_intro.DemoStreams
 com/platzi/functional/_14_optionals/OptionalBasicExample_myyong.java
  com.platzi.functional._14_optionals.OptionalBasicExample_myyong
-com/platzi/functional/_19_final_ops/FinalOperations.java
- com.platzi.functional._19_final_ops.FinalOperations
-com/platzi/functional/_15_streams_intro/StreamExample_myyong.java
- com.platzi.functional._15_streams_intro.StreamExample_myyong
 com/platzi/functional/_15_streams_intro/StreamsWithCollectors_Mkyong.java
  com.platzi.functional._15_streams_intro.StreamsWithCollectors_Mkyong
+com/platzi/functional/model/Person.java
+ com.platzi.functional.model.Person
+com/platzi/functional/_15_streams_intro/StreamExample_myyong.java
+ com.platzi.functional._15_streams_intro.StreamExample_myyong
+com/platzi/functional/model/Item.java
+ com.platzi.functional.model.Item
+com/platzi/functional/model/StaffPublic.java
+ com.platzi.functional.model.StaffPublic
+com/platzi/functional/model/Staff.java
+ com.platzi.functional.model.Staff
+com/platzi/functional/_18_intermediate_ops/Streams_Map_Mkyong.java
+ com.platzi.functional._18_intermediate_ops.Streams_Map_Mkyong

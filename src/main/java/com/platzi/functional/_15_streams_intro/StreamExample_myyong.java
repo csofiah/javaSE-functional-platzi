@@ -1,8 +1,9 @@
 package com.platzi.functional._15_streams_intro;
 
+import com.platzi.functional.model.Person;
+
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class StreamExample_myyong {
 

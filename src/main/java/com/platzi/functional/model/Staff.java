@@ -1,13 +1,20 @@
-package com.platzi.functional._15_streams_intro;
+package com.platzi.functional.model;
 
-public class Person {
+import java.math.BigDecimal;
+
+public class Staff {
 
     private String name;
     private int age;
+    private BigDecimal salary;
 
-    public Person(String name, int age) {
+    public Staff() {
+    }
+
+    public Staff(String name, int age, BigDecimal salary) {
         this.name = name;
         this.age = age;
+        this.salary = salary;
     }
 
     public String getName() {
@@ -26,11 +33,20 @@ public class Person {
         this.age = age;
     }
 
+    public BigDecimal getSalary() {
+        return salary;
+    }
+
+    public void setSalary(BigDecimal salary) {
+        this.salary = salary;
+    }
+
     @Override
     public String toString() {
-        return "Person{" +
+        return "Staff{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
+                ", salary=" + salary +
                 '}';
     }
 }
