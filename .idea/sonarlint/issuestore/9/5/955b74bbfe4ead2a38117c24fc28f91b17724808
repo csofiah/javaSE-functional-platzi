@@ -1,0 +1,46 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îàØıÿÿÿÿ
+Y
+java:S2583""CChange this condition so that it does not always evaluate to "true"(Õş‡³
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(ßàÑÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ûºøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ğœùûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡’Ä•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éª¾õıÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ê§†
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(—¥å³ÿÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ó”³ª
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ï‰–
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(û»é¾
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÒšøŒúÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ÙìŞÜıÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Âº³“ûÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(áíÜÎ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(â¸±éùÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(Ø®¬Ş
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Ç˜Ì‹
+Y
+java:S1854V"CRemove this useless assignment to local variable "nonEmptyGender2".(¯İÓ»
+]
+java:S1854U"BRemove this useless assignment to local variable "nonEmptyGender".(¥ÊÏ†şÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(µ½é–
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Ïªœ¯şÿÿÿÿ
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(Üæƒh
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(í©šó
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(•±¾Äùÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(Â—Ç”ûÿÿÿÿ
+N
+java:S1481U"3Remove this unused "nonEmptyGender" local variable.(¥ÊÏ†şÿÿÿÿ
+J
+java:S1481V"4Remove this unused "nonEmptyGender2" local variable.(¯İÓ»
+M	java:S106Y"9Replace this use of System.out or System.err by a logger.(Êìû.
+V	java:S125Z"<This block of commented-out lines of code should be removed.(ƒÍÇ’ùÿÿÿÿ
+S
+java:S1144"=Remove this unused private "optionalIfPresentExample" method.(–²˜
+P
+java:S1144+":Remove this unused private "optionalFilterExample" method.(ÑÜÖ—
+T
+java:S11445">Remove this unused private "optionalMapFlapMapExample" method.(ªë¦ƒ
+T
+java:S1144E"9Remove this unused private "optionalBasicExample" method.(äÜçÆøÿÿÿÿ

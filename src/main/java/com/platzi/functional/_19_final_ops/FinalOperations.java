@@ -1,5 +1,6 @@
 package com.platzi.functional._19_final_ops;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -47,6 +48,15 @@ public class FinalOperations {
         //Recibe un Collector para juntar todos los elementos del Stream en un cierto tipo:
         Stream<String> studentsStream = Stream.of("Tu", "Yo");
         List<String> studentsList = studentsStream.collect(Collectors.toList());
+
+        Stream<String> language = Stream.of("java", "python", "node");
+        //Convert a Stream to List
+        List<String> result = language.collect(Collectors.toList());
+        result.forEach(System.out::println);//java        python                node
+
+        Stream<Integer> number = Stream.of(1, 2, 3, 4, 5);
+        List<Integer> result2 = number.filter(x -> x != 3).collect(Collectors.toList());
+        result2.forEach(x -> System.out.println(x));//1         2         4        5
 
         //count
         //Nos indica cuantos elementos tiene un Stream
@@ -113,6 +123,11 @@ public class FinalOperations {
             valor que se debe mantener en cada iteracion.
 
          */
+
+        //https://mkyong.com/java8/java-8-stream-reduce-examples/
+        int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int sum = Arrays.stream(numbers).reduce(0, (a, b) -> a + b);    // 55
+        int sum2 = Arrays.stream(numbers).reduce(0, Integer::sum);      // 55
 
         //reduce(BinaryAccumulator)
         Stream<String> aLongStoryStream = Stream.of("Cuando", "despertó,", "el", "dinosaurio", "todavía", "estaba", "allí.");

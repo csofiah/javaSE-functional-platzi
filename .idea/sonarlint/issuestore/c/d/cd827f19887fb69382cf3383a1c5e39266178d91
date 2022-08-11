@@ -1,0 +1,28 @@
+
+M
+java:S3958v"2Refactor the code so this stream pipeline is used.(Ğ´ƒÛùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÒÉ•Êúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+g
+java:S1854v"LRemove this useless assignment to local variable "countingInParallelStream".(Ğ´ƒÛùÿÿÿÿ
+W
+java:S1854`"ARemove this useless assignment to local variable "coursesStream".(´€™¸
+^
+java:S1854\"CRemove this useless assignment to local variable "coolNamesStream".(¸›íêüÿÿÿÿ
+[
+java:S1854N"@Remove this useless assignment to local variable "bufferStream".(ü­´¸üÿÿÿÿ
+[
+java:S1854B"@Remove this useless assignment to local variable "stringStream".(ş´ÄÏûÿÿÿÿ
+L
+java:S1481B"1Remove this unused "stringStream" local variable.(ş´ÄÏûÿÿÿÿ
+L
+java:S1481N"1Remove this unused "bufferStream" local variable.(ü­´¸üÿÿÿÿ
+O
+java:S1481\"4Remove this unused "coolNamesStream" local variable.(¸›íêüÿÿÿÿ
+H
+java:S1481`"2Remove this unused "coursesStream" local variable.(´€™¸
+Z
+java:S1612n"?Replace this lambda with method reference 'x::getAndIncrement'.(‚û±Öøÿÿÿÿ
+X
+java:S1481v"=Remove this unused "countingInParallelStream" local variable.(Ğ´ƒÛùÿÿÿÿ

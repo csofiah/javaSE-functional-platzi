@@ -32,9 +32,12 @@ public class DemoStreams {
 
     //   Optional<Integer> longest = courseLengthStream.max((x, y) -> y-x);
 
+         //Map hace transformacion y crea un nuevo tipo de stream
        Stream<String> emphasisCourses = courseStream.map(course -> course + "!");
                                                     //filter(Predicate)
        Stream<String> justJavaCourses = emphasisCourses.filter(course -> course.contains("Java"));
+       // emphasisCourses.forEach(System.out::println); //emphasisCourses mo se puede usar porque un stream solo puede ser consumido una sola vez
+                                                        //se debe consumir el nuevo stream q se crea, en este caso justJavaCourses
        // justJavaCourses.forEach(System.out::println);
 
     /*
@@ -52,8 +55,8 @@ public class DemoStreams {
         //desp filtran esos datos
         //luego se lo pasen a alguien mas para q transforme esos datos a json
         //para poder responder una peticion web
-        static <T> Stream<T> addOperator(Stream<T> streamm){
-            return streamm.peek( data -> System.out::println);
+        static <T> Stream<T> addOperator(Stream<T> stream){
+            return stream.peek( data -> System.out::println);
         }*/
     }
 }

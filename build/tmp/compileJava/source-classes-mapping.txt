@@ -37,8 +37,8 @@ cursos/arquitecturajava/lambdas/Main2.java
 com/platzi/functional/_14_optionals/Optionals.java
  com.platzi.functional._14_optionals.Optionals
  com.platzi.functional._14_optionals.Optionals$DatoNecesarioException
-com/platzi/functional/_19_final_ops/FinalOperations.java
- com.platzi.functional._19_final_ops.FinalOperations
+com/platzi/functional/_15_streams_intro/Person.java
+ com.platzi.functional._15_streams_intro.Person
 com/platzi/functional/_04_functional/PracticeFunctional.java
  com.platzi.functional._04_functional.PracticeFunctional
  com.platzi.functional._04_functional.PracticeFunctional$1
@@ -114,8 +114,8 @@ com/platzi/functional/exercises/_11_Composition.java
  com.platzi.functional.exercises._11_Composition
 com/platzi/functional/_04_functional/_02_PredicatesDemos.java
  com.platzi.functional._04_functional._02_PredicatesDemos
-com/platzi/functional/_15_streams_intro/DemoStreams.java
- com.platzi.functional._15_streams_intro.DemoStreams
+com/platzi/functional/_14_optionals/ScreenResolution.java
+ com.platzi.functional._14_optionals.ScreenResolution
 com/platzi/functional/_18_intermediate_ops/IntermediateOperations.java
  com.platzi.functional._18_intermediate_ops.IntermediateOperations
 cursos/arquitecturajava/lambdas/Persona.java
@@ -165,15 +165,21 @@ com/platzi/functional/_07_inference/DemoInferencia.java
  com.platzi.functional._07_inference.DemoInferencia
 com/platzi/functional/_11_composition/Composition.java
  com.platzi.functional._11_composition.Composition
-com/platzi/functional/_14_optionals/OptionalBasicExample_myyong.java
- com.platzi.functional._14_optionals.OptionalBasicExample_myyong
+com/platzi/functional/_14_optionals/Mobile.java
+ com.platzi.functional._14_optionals.Mobile
 com/platzi/functional/_14_optionals/DisplayFeatures.java
  com.platzi.functional._14_optionals.DisplayFeatures
 com/platzi/functional/_14_optionals/MobileTesterWithOptionalMain.java
  com.platzi.functional._14_optionals.MobileTesterWithOptionalMain
 com/platzi/functional/_14_optionals/MobileService.java
  com.platzi.functional._14_optionals.MobileService
-com/platzi/functional/_14_optionals/Mobile.java
- com.platzi.functional._14_optionals.Mobile
-com/platzi/functional/_14_optionals/ScreenResolution.java
- com.platzi.functional._14_optionals.ScreenResolution
+com/platzi/functional/_15_streams_intro/DemoStreams.java
+ com.platzi.functional._15_streams_intro.DemoStreams
+com/platzi/functional/_14_optionals/OptionalBasicExample_myyong.java
+ com.platzi.functional._14_optionals.OptionalBasicExample_myyong
+com/platzi/functional/_19_final_ops/FinalOperations.java
+ com.platzi.functional._19_final_ops.FinalOperations
+com/platzi/functional/_15_streams_intro/StreamExample_myyong.java
+ com.platzi.functional._15_streams_intro.StreamExample_myyong
+com/platzi/functional/_15_streams_intro/StreamsWithCollectors_Mkyong.java
+ com.platzi.functional._15_streams_intro.StreamsWithCollectors_Mkyong
