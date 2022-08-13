@@ -191,3 +191,7 @@ com/platzi/functional/model/Staff.java
  com.platzi.functional.model.Staff
 com/platzi/functional/_18_intermediate_ops/Streams_Map_Mkyong.java
  com.platzi.functional._18_intermediate_ops.Streams_Map_Mkyong
+com/platzi/functional/_18_intermediate_ops/Stream_FlatMap_Mkyong.java
+ com.platzi.functional._18_intermediate_ops.Stream_FlatMap_Mkyong
+com/platzi/functional/model/Developer.java
+ com.platzi.functional.model.Developer
