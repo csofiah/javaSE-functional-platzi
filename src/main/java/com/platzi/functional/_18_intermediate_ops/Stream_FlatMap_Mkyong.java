@@ -24,7 +24,9 @@ public class Stream_FlatMap_Mkyong {
 
        // findAllBooks();
 
-        sumOfOrder(orders);
+        //sumOfOrder(orders);
+
+
     }
 
     private static void sumOfOrder(List<Order> orders) {

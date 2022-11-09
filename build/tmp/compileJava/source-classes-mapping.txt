@@ -9,6 +9,8 @@ com/platzi/functional/_10_chaining/data/Account.java
  com.platzi.functional._10_chaining.data.Account
 com/platzi/functional/_04_functional/CLIArgumentsUtils.java
  com.platzi.functional._04_functional.CLIArgumentsUtils
+com/platzi/functional/_18_intermediate_ops/Streams_Map_Mkyong.java
+ com.platzi.functional._18_intermediate_ops.Streams_Map_Mkyong
 com/platzi/functional/util/Utils.java
  com.platzi.functional.util.Utils
 com/platzi/functional/_04_functional/_03_ConsumerSupplierDemos.java
@@ -42,6 +44,11 @@ com/platzi/functional/_19_final_ops/FinalOperations.java
 com/platzi/functional/_04_functional/PracticeFunctional.java
  com.platzi.functional._04_functional.PracticeFunctional
  com.platzi.functional._04_functional.PracticeFunctional$1
+com/platzi/functional/_04_functional/PredicatePractice.java
+ com.platzi.functional._04_functional.PredicatePractice
+ com.platzi.functional._04_functional.PredicatePractice$Student
+com/platzi/functional/_14_optionals/Mobile.java
+ com.platzi.functional._14_optionals.Mobile
 com/platzi/functional/_08_lambda/Syntax.java
  com.platzi.functional._08_lambda.Syntax
  com.platzi.functional._08_lambda.Syntax$OperarNada
@@ -50,17 +57,20 @@ com/platzi/functional/_09_defaults/StringFunctions.java
  com.platzi.functional._09_defaults.StringFunctions
  com.platzi.functional._09_defaults.StringFunctions$DoOperation
  com.platzi.functional._09_defaults.StringFunctions$StringOperation
+com/platzi/functional/model/StaffPublic.java
+ com.platzi.functional.model.StaffPublic
 com/platzi/functional/_10_chaining/data/Phone.java
  com.platzi.functional._10_chaining.data.Phone
 cursos/arquitecturajava/lambdas/Main.java
  cursos.arquitecturajava.lambdas.Main
+com/platzi/functional/_14_optionals/MobileTesterWithOptionalMain.java
+ com.platzi.functional._14_optionals.MobileTesterWithOptionalMain
 com/platzi/functional/triFunction/TrinaryOperator.java
  com.platzi.functional.triFunction.TrinaryOperator
 com/platzi/functional/triFunction/TriFuncional.java
  com.platzi.functional.triFunction.TriFuncional
-com/platzi/functional/_04_functional/PredicatePractice.java
- com.platzi.functional._04_functional.PredicatePractice
- com.platzi.functional._04_functional.PredicatePractice$Student
+com/platzi/functional/_14_optionals/OptionalBasicExample_myyong.java
+ com.platzi.functional._14_optionals.OptionalBasicExample_myyong
 com/platzi/functional/_06_reference_operator/NombresUtils.java
  com.platzi.functional._06_reference_operator.NombresUtils
 com/platzi/functional/_10_chaining/builder/BuilderNoChaining.java
@@ -91,6 +101,10 @@ com/platzi/functional/_13_partial_application/Partial.java
  com.platzi.functional._13_partial_application.Partial$DataBaseConnection
  com.platzi.functional._13_partial_application.Partial$Query
  com.platzi.functional._13_partial_application.Partial$QueryResult
+com/platzi/functional/model/Developer.java
+ com.platzi.functional.model.Developer
+com/platzi/functional/model/Staff.java
+ com.platzi.functional.model.Staff
 com/platzi/functional/_17_operators_collectors/Operators.java
  com.platzi.functional._17_operators_collectors.Operators
 cursos/arquitecturajava/lambdas/staticmethods/Main5.java
@@ -99,23 +113,37 @@ cursos/arquitecturajava/lambdas/predicate/Main4.java
  cursos.arquitecturajava.lambdas.predicate.Main4
 com/platzi/functional/_03_immutable/mutable/MutablePerson_3.java
  com.platzi.functional._03_immutable.mutable.MutablePerson_3
+com/platzi/functional/model/Item.java
+ com.platzi.functional.model.Item
+com/platzi/functional/_14_optionals/ScreenResolution.java
+ com.platzi.functional._14_optionals.ScreenResolution
+com/platzi/functional/model/LineItem.java
+ com.platzi.functional.model.LineItem
+com/platzi/functional/_15_streams_intro/StreamsWithCollectors_Mkyong.java
+ com.platzi.functional._15_streams_intro.StreamsWithCollectors_Mkyong
 com/platzi/functional/_16_listeners/StreamListeners.java
  com.platzi.functional._16_listeners.StreamListeners
  com.platzi.functional._16_listeners.StreamListeners$NumericOperator
+com/platzi/functional/_18_intermediate_ops/Stream_FlatMap_Mkyong.java
+ com.platzi.functional._18_intermediate_ops.Stream_FlatMap_Mkyong
+com/platzi/functional/_15_streams_intro/StreamExample_myyong.java
+ com.platzi.functional._15_streams_intro.StreamExample_myyong
 com/platzi/functional/_02_sideeffects/SideEffects.java
  com.platzi.functional._02_sideeffects.SideEffects
 cursos/arquitecturajava/lambdas/staticmethods/FiltroPersonaNombre.java
  cursos.arquitecturajava.lambdas.staticmethods.FiltroPersonaNombre
 com/platzi/functional/_10_chaining/Compose.java
  compose.Compose
+com/platzi/functional/_14_optionals/MobileService.java
+ com.platzi.functional._14_optionals.MobileService
 com/platzi/functional/_07_inference/Inference.java
  com.platzi.functional._07_inference.Inference
 com/platzi/functional/exercises/_11_Composition.java
  com.platzi.functional.exercises._11_Composition
 com/platzi/functional/_04_functional/_02_PredicatesDemos.java
  com.platzi.functional._04_functional._02_PredicatesDemos
-com/platzi/functional/_14_optionals/ScreenResolution.java
- com.platzi.functional._14_optionals.ScreenResolution
+com/platzi/functional/_15_streams_intro/DemoStreams.java
+ com.platzi.functional._15_streams_intro.DemoStreams
 com/platzi/functional/_18_intermediate_ops/IntermediateOperations.java
  com.platzi.functional._18_intermediate_ops.IntermediateOperations
 cursos/arquitecturajava/lambdas/Persona.java
@@ -136,11 +164,15 @@ com/platzi/functional/_10_chaining/Chaining.java
  com.platzi.functional._10_chaining.Chaining
 cursos/arquitecturajava/lambdas/FiltroPersonaApellido.java
  cursos.arquitecturajava.lambdas.FiltroPersonaApellido
+com/platzi/functional/model/Order.java
+ com.platzi.functional.model.Order
 com/platzi/functional/_12_currying/Currying.java
  com.platzi.functional._12_currying.Currying
  com.platzi.functional._12_currying.Currying$ThreeFunction
 com/platzi/functional/_03_immutable/immutable/Outsider.java
  com.platzi.functional._03_immutable.immutable.Outsider
+com/platzi/functional/_14_optionals/DisplayFeatures.java
+ com.platzi.functional._14_optionals.DisplayFeatures
 cursos/arquitecturajava/lambdas/predicate/FiltroPersonaNombre.java
  cursos.arquitecturajava.lambdas.predicate.FiltroPersonaNombre
 com/platzi/functional/_04_functional/_01_FunctionDemo.java
@@ -151,6 +183,8 @@ com/platzi/functional/_04_functional/_01_FunctionDemo.java
  com.platzi.functional._04_functional._01_FunctionDemo$4
  com.platzi.functional._04_functional._01_FunctionDemo$4$1
  com.platzi.functional._04_functional._01_FunctionDemo$FunctionBy2
+com/platzi/functional/model/Person.java
+ com.platzi.functional.model.Person
 com/platzi/functional/_03_immutable/mutable/MutablePerson_4.java
  com.platzi.functional._03_immutable.mutable.MutablePerson_4
 com/platzi/functional/_10_chaining/data/Address.java
@@ -165,37 +199,7 @@ com/platzi/functional/_07_inference/DemoInferencia.java
  com.platzi.functional._07_inference.DemoInferencia
 com/platzi/functional/_11_composition/Composition.java
  com.platzi.functional._11_composition.Composition
-com/platzi/functional/_14_optionals/Mobile.java
- com.platzi.functional._14_optionals.Mobile
-com/platzi/functional/_14_optionals/DisplayFeatures.java
- com.platzi.functional._14_optionals.DisplayFeatures
-com/platzi/functional/_14_optionals/MobileTesterWithOptionalMain.java
- com.platzi.functional._14_optionals.MobileTesterWithOptionalMain
-com/platzi/functional/_14_optionals/MobileService.java
- com.platzi.functional._14_optionals.MobileService
-com/platzi/functional/_15_streams_intro/DemoStreams.java
- com.platzi.functional._15_streams_intro.DemoStreams
-com/platzi/functional/_14_optionals/OptionalBasicExample_myyong.java
- com.platzi.functional._14_optionals.OptionalBasicExample_myyong
-com/platzi/functional/_15_streams_intro/StreamsWithCollectors_Mkyong.java
- com.platzi.functional._15_streams_intro.StreamsWithCollectors_Mkyong
-com/platzi/functional/model/Person.java
- com.platzi.functional.model.Person
-com/platzi/functional/_15_streams_intro/StreamExample_myyong.java
- com.platzi.functional._15_streams_intro.StreamExample_myyong
-com/platzi/functional/model/Item.java
- com.platzi.functional.model.Item
-com/platzi/functional/model/StaffPublic.java
- com.platzi.functional.model.StaffPublic
-com/platzi/functional/model/Staff.java
- com.platzi.functional.model.Staff
-com/platzi/functional/_18_intermediate_ops/Streams_Map_Mkyong.java
- com.platzi.functional._18_intermediate_ops.Streams_Map_Mkyong
-com/platzi/functional/model/Developer.java
- com.platzi.functional.model.Developer
-com/platzi/functional/model/LineItem.java
- com.platzi.functional.model.LineItem
-com/platzi/functional/_18_intermediate_ops/Stream_FlatMap_Mkyong.java
- com.platzi.functional._18_intermediate_ops.Stream_FlatMap_Mkyong
-com/platzi/functional/model/Order.java
- com.platzi.functional.model.Order
+in28minutes/functional/programming/ListFunctional.java
+ in28minutes.functional.programming.ListFunctional
+in28minutes/functional/programming/ListStructured.java
+ in28minutes.functional.programming.ListStructured
