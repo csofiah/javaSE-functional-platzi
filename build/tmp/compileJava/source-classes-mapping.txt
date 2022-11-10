@@ -3,6 +3,8 @@ com/platzi/functional/_01_pure/PureFunctions.java
  com.platzi.functional._01_pure.PureFunctions$Person
 com/platzi/functional/_11_composition/MathOperations2.java
  com.platzi.functional._11_composition.MathOperations2
+in28minutes/functional/programming/ListStructured.java
+ in28minutes.functional.programming.ListStructured
 com/platzi/functional/_10_chaining/builder/BuilderWithChaining.java
  com.platzi.functional._10_chaining.builder.BuilderWithChaining
 com/platzi/functional/_10_chaining/data/Account.java
@@ -201,5 +203,5 @@ com/platzi/functional/_11_composition/Composition.java
  com.platzi.functional._11_composition.Composition
 in28minutes/functional/programming/ListFunctional.java
  in28minutes.functional.programming.ListFunctional
-in28minutes/functional/programming/ListStructured.java
- in28minutes.functional.programming.ListStructured
+in28minutes/functional/programming/PlayingWithOptional.java
+ in28minutes.functional.programming.PlayingWithOptional
